@@ -1,0 +1,9 @@
+.addedClass{
+    display: flex;
+    flex-direction: column;
+}
+#deleteId{
+    margin-left: 1rem;
+}
+
+
